@@ -19,6 +19,9 @@
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolshakovk&layout=compact)](https://github.com/bolshakovk/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolshakovk&layout=compact)](https://github.com/bolshakovk)
+
+ ![](https://komarev.com/ghpvc/?username=bolshakovk)
+
+ [![codewars](https://www.codewars.com/users/bolshakovk/badges/small)](https://www.codewars.com/users/bolshakovk) 

@@ -20,7 +20,7 @@
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolshakovk&layout=compact)](https://github.com/bolshakovk)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolshakovk&hide=jupyter%20notebook&layout=compact)](https://github.com/bolshakovk)
 
  ![](https://komarev.com/ghpvc/?username=bolshakovk)
 

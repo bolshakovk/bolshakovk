@@ -3,10 +3,12 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+java+software+engineer)](https://git.io/typing-svg)
 <h2>My name is Konstantin Bolshakov</h2>
 <p>
-  I have a year of experience in commercial development. <br>
-  It was a startup consisting of a small cohesive team. <br>
-  I created services for a web application, communicated <br>
-  with the product development team, the development was iterative, the Scrum approach was used.
+I’ve had over a year of commercial development. <br>
+I worked in a startup that provides a web-platform <br>
+ with interactive whiteboard functionality. The team <br>
+ was small but close-knit. I implemented the authorization <br>
+ service from scratch. By myself configured CI/CD. <br>
+ Workflows were built by Agile with two-week sprints.
 </p>
 <q><i>Simplicity is the key to reliability.</i></q> <site>Edsger W. Dijkstra</site>
 

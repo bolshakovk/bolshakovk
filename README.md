@@ -3,7 +3,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+java+software+engineer)](https://git.io/typing-svg)
 <h2>My name is Konstantin Bolshakov</h2>
 <p>
-I’ve had over a 3 years of commercial development. <br>.
+I’ve had over a 3 years of commercial development. <br>
 </p>
 <q><i>Simplicity is the key to reliability.</i></q> <site>Edsger W. Dijkstra</site>
 
